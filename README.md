@@ -1,6 +1,8 @@
 # README.md #
 #New comment to test git diff
 #Test2
+#Fork branch upate to updateREADME for future merge
+
 Important steps for git workflow:
 
 1. Initialize repository with git init
